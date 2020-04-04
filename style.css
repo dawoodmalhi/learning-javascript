@@ -55,6 +55,11 @@ body {
   font-size: 15px;
   font-weight: bold;
   cursor: pointer;
+  transition: opacity 0.4s;
+}
+.operator:hover,
+.number:hover {
+  opacity: 0.5;
 }
 
 .number {
