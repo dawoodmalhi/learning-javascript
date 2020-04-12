@@ -5,4 +5,4 @@ This is a web Calculator which I built for Practicing Javascript. Its front-end 
 ## Interface
 
 Here is the Screen Shot of the Calculator<br>
-![ScreenShot](ttps://github.com/dawoodmalhi/learning-javascript/ScreenShot.JPG)
+![ScreenShot](https://https://github.com/dawoodmalhi/learning-javascript/blob/master/ScreenShot.JPG)
